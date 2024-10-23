@@ -1,6 +1,4 @@
 #include <iostream>
-#include <vector>
-#include <algorithm>
 
 int main() {
 	std::ios::sync_with_stdio(0);
@@ -8,8 +6,6 @@ int main() {
 	std::cout.tie(0);
 
 
-	// Á¡È­½Ä!!!
-	
 
 	return 0;
 }

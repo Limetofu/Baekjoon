@@ -21,7 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My2579UpStair</RootNamespace>
+    <ProjectGuid>{c493d6f7-cf7f-49ca-b04a-062f89e1c495}</ProjectGuid>
+    <RootNamespace>My117262xnTiling</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
